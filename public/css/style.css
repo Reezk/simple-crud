@@ -1,0 +1,18 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+nav a {
+    padding:0.5rem;
+}
+
+li{
+    list-style-type: none;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 5px;
+}
+li:hover{
+    background: #f7474f;
+}
